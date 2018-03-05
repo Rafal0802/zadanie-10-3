@@ -17,4 +17,16 @@
   list-style-type: none;
   float: left;
 }
+
+#carousel .prev, #carousel .next {
+  position: absolute;
+  cursor: pointer;
+  top: 18%;
+  font-size: 40px;
+  color: red;
+}
+
+#carousel .next {
+  left: 61%;
+}
 /*# sourceMappingURL=style.css.map */

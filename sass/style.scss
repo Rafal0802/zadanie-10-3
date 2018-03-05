@@ -18,4 +18,14 @@
 			float: left;
 		}
 	}
+	.prev, .next {
+		position: absolute;
+		cursor: pointer;
+		top: 18%;
+		font-size: 40px;
+		color: red;
+	}
+	.next {
+		left: 61%;
+	}
 }
